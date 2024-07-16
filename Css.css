@@ -1,0 +1,26 @@
+h1 {
+ color: rgb(169, 9, 9);
+}
+body{
+    background-color: rgb(23, 75, 102);
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  ul {
+    list-style-type: none;
+    font-size: 40px;
+  }
+  li {
+    display: inline;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+footer {
+  font-display: center;
+}  
